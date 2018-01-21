@@ -1,4 +1,15 @@
-//define functions here
+function getIt(){
+}
+
+function frameIt(){
+}
+
+function submitIt(){
+}
+
+pressIt(){
+}
+
 
 $(document).ready(function(){
 
